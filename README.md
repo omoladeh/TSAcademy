@@ -77,7 +77,7 @@ Customer segmentation and revenue performance analysis.
 ---
 
 ## File
-- `Logistics_Analytics.pbix` — Full Power BI project file
+- `Omolade Logistics Dashboard.pbix` — Full Power BI project file
 
 ---
 
