@@ -64,7 +64,7 @@ Customer segmentation and revenue performance analysis.
 
 ## Dashboard Preview
 
-![Dashboard Preview](IMG_5883.png)
+![Dashboard Preview](Untitled.png)
 
 ---
 
