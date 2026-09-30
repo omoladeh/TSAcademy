@@ -1,8 +1,7 @@
-# Logistics & Transportation Analytics Dashboard
+# Logistics Analytics Dashboard
 
 A comprehensive, multi-page business intelligence project 
-built in Power BI, analysing the operations of a logistics 
-and transportation company across six key domains.
+built in Power BI, analysing the operations of a logistics company across four key domains.
 
 ---
 
@@ -25,35 +24,23 @@ High-level summary of company-wide performance.
 - On-Time Events Rate: 55.7%
 - Total Trips: 85K
 
-### 2. Driver Performance
+### 2. Driver & Safety Performance
 Analysis of 150 drivers across key performance metrics.
-- Active Drivers: 124
+- Total incidents: 170
 - Fleet Avg MPG: 6.50
-- Avg Idle Hours: 7.01
+- Preventable Incidents: 37.6%
 - On-Time Events Rate: 55.7%
 
-### 3. Fleet & Maintenance
-Operational health and cost analysis across 120 trucks.
-- Active Trucks: 92
+### 3. Fleet & Fuel
+Operational health and Fuel consumption analysis 
+- Total Fuel Cost: $96M
 - Avg Utilisation Rate: 83%
 - Total Maintenance Cost: $5.7M
-- Total Downtime Hours: 72.23K
+- Total Fleet size: 120
+- Fleet Avg MPG: 6.50
 
-### 4. Fuel & Route
-Fuel consumption and route efficiency by city and state.
-- Total Fuel Cost: $96M
-- Total Fuel Gallons: 24.5M
-- Avg Price per Gallon: $3.90
-- Fuel Cost per Mile: $0.78
 
-### 5. Safety
-Incident tracking and risk analysis across the fleet.
-- Total Incidents: 170
-- Preventable Incidents: 37.6%
-- At-Fault Rate: 31.8%
-- Total Claims Amount: $2.7M
-
-### 6. Customer & Revenue
+### 4. Customer & Revenue
 Customer segmentation and revenue performance analysis.
 - Total Revenue: $299M
 - Total Customers: 200
@@ -91,8 +78,6 @@ Data Analyst | TS Academy
 ## Key Insights
 - Dedicated freight is the dominant booking type at 37.64%
   of total revenue
-- On-time performance at 55.7% is the standout operational
-  concern requiring immediate attention
 - Kansas City leads all cities in total fuel cost at $9.7M
 - Freightliner carries the highest maintenance cost of any
   truck make in the fleet
